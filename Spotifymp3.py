@@ -1,3 +1,5 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
 import os
 import subprocess
 
@@ -42,3 +44,4 @@ if __name__ == "__main__":
         download_song_from_spotify(link)
     else:
         print("No Spotify link was entered.")
+
